@@ -3,7 +3,6 @@
 
 ### Here is the screenshot of the web page:
 
-![Screenshot (273)](https://user-images.githubusercontent.com/108190937/180701704-4cc06afa-6dd9-4bb1-bf7b-26b9ebd00f38.png)
 
 ### Here is the HTML code of the web page:
 
